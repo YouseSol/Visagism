@@ -1,0 +1,37 @@
+.st-emotion-cache-6qob1r.eczjsme11{
+    background-color: #161619;
+}
+
+.st-emotion-cache-ltfnpr.e115fcil0{
+    font-size: 1.5em;
+    color: white;
+}
+
+
+img[src="http://localhost:8501/media/5b0128ebc4d8dcc59a334d193085f488119d47c7c4809f22209ee042.jpg"]{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.row-widget.stButton{
+    display: flex;
+    justify-content: center;
+}
+
+img[src="http://localhost:8501/media/ae25c1a9a89c3959af0229919af9f41e97019439d8903190ee31e1e6.jpg"],
+img[src="http://localhost:8501/media/5239e2cf004de92a533222952f92c53ca7eb3c355cbe9887ab75368a.jpg"],
+img[src="http://localhost:8501/media/5e19e75a353f411c27e76133fc62734de4d87686d7dd1100c4d0660a.jpg"]{
+    width: 20%;
+    border-radius: 50%;
+}
+
+div[data-testid="stImage"]{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div[data-testid="stHeadingWithActionElements"]{
+    text-align: center;
+}
